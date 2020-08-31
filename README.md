@@ -6,4 +6,4 @@ I'm Abdulrahman, a junior full stack developer who spends my time working on ful
 - 🌱 I’m currently learning: TypeScript
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/abdultolba), [email](mailto:abdultolba@gmail.com) (preferred), or fill out the contact form on my [website](https://abdultolba.dev)!
-- 🔉 Fun fact: My first experience with software development was on neopets, which is the reason I am a softwar engineer today 🥳
+- 🔉 Fun fact: My first experience with software development was on neopets, which is the reason I am a software engineer today 🥳
