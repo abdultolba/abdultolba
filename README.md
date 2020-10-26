@@ -4,5 +4,5 @@ I'm Abdulrahman, a junior full stack developer who spends my time working on ful
 
 - 🔭 I’m currently working on [friend.ly](https://github.com/abdultolba/social-mern), [stoic-api](https://github.com/abdultolba/stoic-api), & [dictionary-bot](https://github.com/abdultolba/dictionary-bot)
 - 🌱 I’m currently learning: TypeScript & Dart/Flutter.
-- 📫 How to reach me: Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/abdultolba), [email](mailto:abdultolba@gmail.com) (preferred), or fill out the contact form on my [website](https://abdultolba.dev) (:warning: under constuction)!
+- 📫 How to reach me: Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/abdultolba) or via [email](mailto:abdultolba@gmail.com) (preferred).
 - 🔉 Fun fact: My first experience with software development was on [neopets](http://www.neopets.com/help/html1.phtml), which is the reason I am a software engineer today 🥳
